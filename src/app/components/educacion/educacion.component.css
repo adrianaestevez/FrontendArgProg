@@ -1,0 +1,15 @@
+* {
+    overflow-y: hidden;
+}
+
+.row {
+    margin-left: 421px;
+}
+
+h2, h3 {
+    display: inline;
+}
+
+.barritaExp {
+    margin-left: 70px;
+}
