@@ -1,0 +1,31 @@
+.barritaExp {
+    margin-left: 70px;
+}
+
+.barrah2 {
+    margin-top: 10px;
+}
+
+.sangria {
+    padding-left: 7px;
+}
+
+* {
+    overflow-y: hidden;
+}
+
+.row {
+    margin-left: 5%;
+    padding: 20px;
+}
+
+
+.contenedor {
+    width: auto;
+}
+
+.parte1, .parte2 {
+    display: inline-block;
+    text-align: justify;
+}
+    
