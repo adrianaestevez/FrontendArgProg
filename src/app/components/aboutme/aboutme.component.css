@@ -33,7 +33,7 @@
         position: absolute;
         width: 15%;
         border-radius: 100%;
-        top: 43%;
+        top: 210px;
         left: 43%;
     }
 }
@@ -45,3 +45,4 @@
 .sangria {
     padding-left: 7px;
 }
+

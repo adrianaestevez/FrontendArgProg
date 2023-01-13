@@ -2,10 +2,6 @@
     overflow-y: hidden;
 }
 
-.row {
-    margin-left: 392px;
-}
-
 h2, h3 {
     display: inline;
 }
@@ -14,6 +10,15 @@ h2, h3 {
     margin-left: 70px;
 }
 
-.sangria {
-    padding-left: 7px;
+h2 {
+    margin-left: 50px;
+}
+
+p {
+    margin-left: 60px;
+}
+
+.row {
+    padding-right: 30px;
+    margin-top: 70px;
 }
