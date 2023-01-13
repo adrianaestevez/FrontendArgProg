@@ -3,7 +3,7 @@
 }
 
 .row {
-    margin-left: 421px;
+    margin-left: 392px;
 }
 
 h2, h3 {
@@ -12,4 +12,8 @@ h2, h3 {
 
 .barritaExp {
     margin-left: 70px;
+}
+
+.sangria {
+    padding-left: 7px;
 }
