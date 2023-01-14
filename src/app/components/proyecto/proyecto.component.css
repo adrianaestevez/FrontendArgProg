@@ -1,6 +1,7 @@
-.barritaExp {
-    margin-left: 70px;
+.barritaMini {
+    margin-left: 30px;
 }
+
 
 .barrah2 {
     margin-top: 10px;
@@ -27,4 +28,15 @@
 .parte1, .parte2 {
     display: inline-block;
     text-align: justify;
+}
+
+.bannerTitulo {
+    display: flex;
+    align-items: center;
+    margin-top: 30px;
+    margin-left: 60px;
+    height: 70px;
+    background-color: #3d3a41;
+    background: linear-gradient(to right, #312e34, #3d3a4152, rgba(61, 58, 65, 0));
+    border-radius: 10px;
 }

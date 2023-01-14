@@ -1,5 +1,8 @@
 .row {
     padding: 20px;
+    background-color: #4539575a;
+    border-bottom-left-radius: 37px;
+    border-bottom-right-radius: 37px;
 }
 
 #nombre {
